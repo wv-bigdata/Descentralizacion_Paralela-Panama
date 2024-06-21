@@ -9,6 +9,8 @@
 
 **Este trabajo consiste en la visualización de datos publicados por el diario local 'La Prensa', donde dan a conocer los montos desviados a cada Representante por la 'Autoridad Nacional de Descentralización'. Con el dashboard creado en Tableau Public, se puede apreciar diferentes aspectos de la manera en que se dieron los fondos a cada sector del país. Queda a juicio del lector juzgar si ven mejoras comunitarias acordes con los fondos asignados.**
 
+---
+
 [**Sobre el caso de los desvíos de fondos por la 'Autoridad de Descentralización Paralela'**](https://www.prensa.com/unidad-investigativa/la-base-de-datos-de-la-descentralizacion-paralela/)
 
 ---
