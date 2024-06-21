@@ -23,4 +23,4 @@
 
 ---
 
-**Observación**: En el campo 'Representante', cuando aparece 'No identificado', la nota del diario 'La Prensa' dice lo siguiente: *"Hubo algunas imposibles de identificar, porque hay más de una junta comunal con el mismo nombre. En esos casos, la base indica “no identificado”. En esa lista hay 41 juntas comunales, entre las que están Buenos Aires -hay dos, una en Chame y otra la Comarca Ngäbe-Buglé-, El Cedro, El Coco, Pedregal y Pedregoso, entre otras. Allí corresponde la etiqueta ‘No identificado’ en provincia, distrito, representante y partido. A veces sí se pudo asignar partido."*
+**Observación**: En el campos donde aparece 'No identificado', la nota del diario 'La Prensa' dice lo siguiente: *"Hubo algunas imposibles de identificar, porque hay más de una junta comunal con el mismo nombre. En esos casos, la base indica “no identificado”. En esa lista hay 41 juntas comunales, entre las que están Buenos Aires -hay dos, una en Chame y otra la Comarca Ngäbe-Buglé-, El Cedro, El Coco, Pedregal y Pedregoso, entre otras. Allí corresponde la etiqueta ‘No identificado’ en provincia, distrito, representante y partido. A veces sí se pudo asignar partido."*
