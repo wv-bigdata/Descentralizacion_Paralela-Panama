@@ -19,7 +19,7 @@
 
 ---
 
-## Dashboard en ['Tableau Public'](https://public.tableau.com/app/profile/wilbert.vong1527/viz/Descentralizacion_Paralela-Panama_2024/Dashboard1)
+## Dashboard en ['Tableau Public'](https://public.tableau.com/app/profile/wv.bigdata/viz/Descentralizacion_Paralela-Panama_2024/Dashboard1)
 
 ---
 
